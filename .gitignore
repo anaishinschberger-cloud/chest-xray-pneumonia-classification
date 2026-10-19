@@ -1,0 +1,25 @@
+# Datasets
+data_original/
+data_nouveau_split/
+
+# Anciens notebooks et essais
+previously/
+
+# Poids des modèles entraînés
+*.pth
+*.pt
+*.ckpt
+
+# Fichiers temporaires Python et Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environnements et informations sensibles
+.venv/
+venv/
+.env
+.env.*
+
+# Fichiers système macOS
+.DS_Store
